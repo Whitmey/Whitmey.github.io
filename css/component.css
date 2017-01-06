@@ -12,3 +12,12 @@
 	background-image: url('../img/demo-2-bg.jpg');
 	background-position: center bottom;
 }
+
+#portfolioImage {
+  width: 300%;
+}
+
+.portfolioImage {
+  width: 100%;
+  height: 200%;
+}
